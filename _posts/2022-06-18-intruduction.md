@@ -3,7 +3,7 @@ layout: post
 title: "The neuromorphic theory introduction"
 subtitle: "Starting that post I am going to describe my observations"
 date: 2022-06-18 23:15:00 +0300
-background: '/img/posts/introduction@2x.jpg'
+background: '/img/posts/2022-06/introduction@2x.jpg'
 ---
 ### Introduction
 The twenty-first century brings us lots of different technology discoveries. One of them is a new trend in computer science called artificial intelligence. The thing is there is no real progress to achieve any kind of  consciousness for now. Big number of scientists and engineers are working on basic algorithms resolving a few number tasks like regularization, classifications, and clusterization but none of those algorithms make us closer to real consciousness problems.

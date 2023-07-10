@@ -3,7 +3,7 @@ layout: post
 title: "Backpropagation does not work"
 subtitle: "Backward error distribution technique not applied for big and complex systems."
 date: 2022-06-19 18:15:00 +0300
-background: '/img/posts/2022-06-19/backpropagation.jpg'
+background: '/img/posts/2022-06/backpropagation.jpg'
 ---
 One of the major roles in modern artificial intelligence algorithms taken by artificial neural networks. Its idea is based on simulating neurons in some approximation. The artificial neural network learning process is possible by backward error propagation but that approach is not good enough for really deep neural networks. 
 
