@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "A Journey Through Reverse Engineering"
-subtitle: "Unveiling the Quest for Personalized Wearable Tech: A Journey Through Reverse Engineering"
+subtitle: ""
 date: 2023-11-27 22:00:00 +0300
-background: '/img/posts/2022-07/background_5.jpg'
+background: '/img/obstract_1.jpg'
 ---
-### Unveiling the Quest for Personalized Wearable Tech: A Journey Through Reverse Engineering
+## Unveiling the Quest for Personalized Wearable Tech: A Journey Through Reverse Engineering
 ![Reverse Engineering CASIO GBD-200](https://octadero.com/img/posts/2023-11/reverse-engineering/casio-g-shock.jpg "Reverse Engineering CASIO GBD-200")
 
 I've been exploring the world of modern wearable devices, but I find them lacking in a crucial aspect: battery life. To me, the ideal wearable should last for months without needing a charge. Unfortunately, the market doesn't offer a device that fits my criteria; they come with unnecessary features and don't prioritize what's truly important.
