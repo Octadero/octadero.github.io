@@ -31,9 +31,11 @@ Moving on to step two, I used a Nordic Semiconductor dongle and Wireshark to int
 
 Step three led me to explore the iOS application. By intercepting traffic between the app and CASIO servers, I aimed to uncover requests for new firmware. After some maneuvering with reverse proxy and fake Root CA certificates, I made progress. However, what I discovered was unsettling—CASIO continuously gathers analytics and data about users, which goes against my principles. This motivated me further to develop my own secure firmware for a device I wear constantly.
 
-![Reverse Engineering CASIO GBD-200]("https://octadero.com/img/posts/2023-11/reverse-engineering/Screenshot 2023-11-27 at 15.13.30.png" "Nordic Semiconductor dongle")
+![Reverse Engineering CASIO GBD-200](https://octadero.com/img/posts/2023-11/reverse-engineering/burp.png "Burp proxy intereptor")
 
 
 After some additional time, I finally obtained a significant breakthrough—a hint about the microcontroller's name in one of the requests. This led me to a wealth of resources online: guides, datasheets, SDKs, and more. Not a bad outcome for just a couple of hours of reverse engineering.
+
+![Reverse Engineering CASIO GBD-200](https://octadero.com/img/posts/2023-11/reverse-engineering/da14531.png "Burp proxy intereptor")
 
 My next steps involve defining the microchip layout and designing connectors for the available ground connectors on the watch PCB. When I have a free chunk of three hours, I plan to delve deeper. My past experience with light freeROST firmwares should come in handy for this project.
