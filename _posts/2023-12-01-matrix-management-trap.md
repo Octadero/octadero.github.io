@@ -3,7 +3,7 @@ layout: post
 title: "Matrix management trap"
 subtitle: "Closest trap you can fall down in international company"
 date: 2023-11-30 22:15:00 +0300
-background: '/img/obstract_7.jpg'
+background: '/img/obstract_8.jpg'
 ---
 
 
