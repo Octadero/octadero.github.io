@@ -3,7 +3,7 @@ layout: post
 title: "Brain: Consciousness and Computing"
 subtitle: ""
 date: 2023-12-02 17:15:00 +0300
-background: 'img/obstract_4.jpg'
+background: '/img/obstract_4.jpg'
 ---
 ### Introduction
 Neuromorphic computing emulates the analog operations of the human brain, a feat beyond the capability of digital, or binary, computing which can simulate but not replicate these analog processes. Scientists are striving to merge genuine analog computation into binary systems, as detailed in the link provided.
