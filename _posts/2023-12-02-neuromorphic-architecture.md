@@ -3,7 +3,7 @@ layout: post
 title: "Neuromorphic Architecture"
 subtitle: ""
 date: 2023-12-02 18:00:00 +0300
-background: '/img/obstract_11.jpg'
+background: '/img/obstract_10.jpg'
 ---
 ### Earlyes
 Already in 1950, Turing and von Neumann described an architecture resembling our brain, but unfortunately, at that time, neither neurophysiologists understood how the brain functions, nor did physicists know what the elemental basis for such a computer might look like. This doesn't mean that neurophysiologists now have all the answers about how the brain works or that physicists can propose a perfect elemental foundation. However, I believe that we can already start developing such computers.
