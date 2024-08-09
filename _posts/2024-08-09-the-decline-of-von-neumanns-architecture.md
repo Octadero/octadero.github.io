@@ -72,17 +72,19 @@ To summarize, the neuron receives input signals through many dendrites, and if t
 ---
 
 [1] J. Von Neumann and R. Kurzweil, The computer and the brain. Yale University Press, 2012.
-[2] A. M. Turing, “Computing machinery and intelligence,” Mind, vol. 59, no. 236, pp. 433–460, 1950. 
+
+[2] A. M. Turing, “Computing machinery and intelligence,” Mind, vol. 59, no. 236, pp. 433–460, 1950.
+
 [3] nanoCMOS Device, Circuit and System Simulations, https://cnx.org/contents/hMLR8R0g@1/nanoCMOS-Device-Circuit-and-System-Simulations
 
-[1] J. Von Neumann and R. Kurzweil, The computer and the brain. Yale University Press, 2012.
-[2] A. M. Turing, “Computing machinery and intelligence,” Mind, vol. 59, no. 236, pp. 433–460, 1950. 
-[3] Types of neurons
-https://qbi.uq.edu.au/brain/brain-anatomy/types-neurons
-[4] Computing complex visual features with retinal spike times Gütig R, Gollisch T, Sompolinsky H, Meister M (2013)
-[5] Industrial DVS Design; Key Features and Applications http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Eric_Ryu_Samsung.pdf
-[6] Spike-shape dependence of the spike-timing dependent synaptic plasticity in ferroelectric-tunnel-junction synapses
-https://www.nature.com/articles/s41598-019-54215-w/
-[7] Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware
- https://arxiv.org/abs/1812.01739
-[8] Advancing neuromorphic computing From promise to Competitive technology. https://niceworkshop.org/wp-content/uploads/2019/04/NICE-2019-DAY-2a-Mike-Davies.pdf
+[4] Types of neurons, https://qbi.uq.edu.au/brain/brain-anatomy/types-neurons
+
+[5] Computing complex visual features with retinal spike times Gütig R, Gollisch T, Sompolinsky H, Meister M (2013)
+
+[6] Industrial DVS Design; Key Features and Applications http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Eric_Ryu_Samsung.pdf
+
+[7] Spike-shape dependence of the spike-timing dependent synaptic plasticity in ferroelectric-tunnel-junction synapses, https://www.nature.com/articles/s41598-019-54215-w/
+
+[8] Benchmarking Keyword Spotting Efficiency on Neuromorphic Hardware, https://arxiv.org/abs/1812.01739
+
+[9] Advancing neuromorphic computing From promise to Competitive technology, https://niceworkshop.org/wp-content/uploads/2019/04/NICE-2019-DAY-2a-Mike-Davies.pdf
