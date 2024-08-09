@@ -3,7 +3,7 @@ layout: post
 title: "The decline of von Neumann's architecture"
 subtitle: ""
 date: 2024-08-09 10:15:00 +0300
-background: '/img/posts/introduction@2x.jpg'
+background: '/img/posts/2024-08/von-neumann-architecture/background.jpg'
 ---
  For more than 30 years computers have been so popular and common that we can't imagine our life without them. They have become more than a tool to calculate your home taxes and a communication device that pushes out paper letters. We always tend for a new way to extend our reality and we want to develop new machines with new skills. As the computation level increases, it becomes more difficult to make a new step. Today we faced with long list of limitations:
 
