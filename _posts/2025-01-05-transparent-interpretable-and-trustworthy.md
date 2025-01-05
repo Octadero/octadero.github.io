@@ -3,11 +3,10 @@ layout: post
 title: "Unlocking AI Transparency"
 subtitle: "The Key to Trust in your AI Innovation"
 date: 2025-01-05 20:35:00 +0200
-background: '/img/cuttlefish-01'
+background: '/img/cuttlefish-01.jpg'
 ---
 
-
-## Are your AI solution transparent, interpretable, and trustworthy enough?
+## Is your AI solution transparent, interpretable, and trustworthy enough?
 ![SHAP Value](https://octadero.com/img/posts/2025-01/Figure_2.png)
 
 From healthcare to finance, AI is making high-stakes decisions that impact lives. But how do we ensure these decisions are fair and justifiable? That’s where *model explanation* comes in. It enables us to:
@@ -17,8 +16,6 @@ From healthcare to finance, AI is making high-stakes decisions that impact lives
  - **Identify biases** lurking in the data or the model.
 
  - **Improve performance** by understanding the driving factors behind predictions.
-
-
 
 *Model explanation* is crucial for machine learning (ML) and artificial intelligence (AI) for several reasons, especially in ensuring the responsible and effective application of these technologies.
 
@@ -150,7 +147,6 @@ plt.savefig("summary_positive_plot_violin.png")
 shap.summary_plot(shap_values_logit_1, subset_data, feature_names=features, show=False, plot_type="compact_dot")
 plt.show()
 plt.savefig("summary_positive_plot_compact_dot.png")
-
 
 shap.summary_plot(shap_values_logit_0, subset_data, feature_names=features, show=False, plot_type="dot")
 plt.show()
