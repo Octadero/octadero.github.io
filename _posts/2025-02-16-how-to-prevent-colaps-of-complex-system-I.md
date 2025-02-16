@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "How to prevent colaps of complex system."
-subtitle: "Part I - theoretical. Is it possible to predict the fail."
-date: 2025-02-17 21:08:00 +0200
+title: "How to prevent colaps of complex system"
+subtitle: "Part I - theoretical. Is it possible to predict the fail"
+date: 2025-02-16 21:08:00 +0200
 background: '/img/sea-creatures/sea_creatures14_wall.jpg'
 ---
 
