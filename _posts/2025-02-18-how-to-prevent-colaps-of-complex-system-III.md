@@ -25,7 +25,34 @@ Therefore, in complex systems, the most difficult part is often not fixing the f
 
 
 ### Size, mirage of regularity, Lack of understanding and control
-First call 
+A complex system can be small if you measure it by the number of components, the size of its inputs and outputs, or its overall scale.
+
+However, **size does not make a system complex**. Complexity comes from the **type, number, and interactions of relationships between its components**.
+
+A complex system can be a team of just four engineers, a service with only a few features, or a company with ten employees.
+
+For example, a small team can develop highly complex relationships and responsibilities. When there are no departments, clearly defined processes, strict roles, or well-established responsibilities, one person may have to handle many different areas. It may also be unclear where one person's responsibility ends and where another person's responsibility begins.
+
+In such an environment, much of the system depends on **historical agreements, implicit knowledge, dependencies, and personal relationships** rather than clearly defined processes.
+
+This means that the smaller the organization or system is, the **higher the chance that it behaves as a complex system rather than a difficult one**.
+
+The key distinction is not how big the system is, but **how its parts interact and how predictable those interactions are**.
+
+When you look at a **large, difficult system**, there is a good chance that you can see most of its real size. Its components, structure, interfaces, roles, and dependencies are usually visible and can be mapped.
+
+When you face a **small, complex system**, be prepared for the opposite: **you may not be able to see its real size**.
+
+The visible system may consist of only a few components, people, or features, while the actual complexity is hidden in the relationships between them. These relationships may be based on history, implicit agreements, personal knowledge, and dependencies that are not documented anywhere.
+
+The system may look small from the outside, but its **invisible network of relationships can be enormous**.
+
+As Antoine de Saint-Exupéry wrote in *The Little Prince*:
+
+> “It is only with the heart that one can see rightly; what is essential is invisible to the eye.”
+
+The same principle applies to complex systems: **what makes them complex is often not what you can see, but what exists between the visible parts.**
+
 
 ## Preventing irreversible movements  
 While predicting an irreversible event may not be possible, it is your responsibility to evaluate the stability of your system. One approach is to create a simple numerical model that tracks the system's entropy levels. This can help you understand when the system is heading toward instability.  
