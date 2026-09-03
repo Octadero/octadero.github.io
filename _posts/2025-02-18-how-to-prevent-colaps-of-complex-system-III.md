@@ -1,13 +1,28 @@
 ---
 layout: post
 title: "How to prevent colaps of complex system"
-subtitle: "Part II - practical. Is it possible to predict the fail"
-date: 2025-02-18 21:08:00 +0200
+subtitle: "Part III - practical. What to do and some hints"
+date: 2026-10-18 08:43:00 +0200
 background: '/img/sea-creatures/sea_creatures17_wall.jpg'
 ---
 
 [How to prevent colaps of complex system - Part I](/2025/02/16/how-to-prevent-colaps-of-complex-system-I.html)
 Previously I described systems
+
+## What Makes Difficult and Complex Systems Stop?
+
+As you may remember, **difficult systems are generally linear**, while **complex systems have nonlinear relationships and interactions between their components**.
+
+This difference leads to fundamentally different behavior when something goes wrong.
+
+In a **difficult system**, a failure of a single component can cause the entire system to stop, especially if the system was designed with a fail-safe or backup mechanism. The system may stop immediately, but the failure is usually **predictable and relatively easy to diagnose**. It is often possible to identify the failed component and determine the root cause quickly.
+
+In a **complex system**, failure analysis can take hours, days, or even months. Some complex systems can compensate for a broken component by replacing its functionality with another mechanism or an artificial workaround. As a result, the system may continue operating, and the original problem can remain hidden behind what appears to be normal behavior.
+
+This is what makes complex systems particularly difficult to diagnose. When the system eventually stops, you may initially spend significant time investigating and fixing **symptoms or secondary effects rather than the actual root cause**. You may even end up debugging a workaround that had previously masked the original failure.
+
+Therefore, in complex systems, the most difficult part is often not fixing the failure itself, but **understanding what actually failed in the first place**.
+
 
 ### Size, mirage of regularity, Lack of understanding and control
 First call 
