@@ -54,7 +54,7 @@ As Antoine de Saint-Exupéry wrote in *The Little Prince*:
 The same principle applies to complex systems: **what makes them complex is often not what you can see, but what exists between the visible parts.**
 
 
-## Preventing irreversible movements  
+### Preventing irreversible movements  
 While predicting an irreversible event may not be possible, it is your responsibility to evaluate the stability of your system. One approach is to create a simple numerical model that tracks the system's entropy levels. This can help you understand when the system is heading toward instability.  
 
 ### Types of complexity and how they differ from difficult systems  
@@ -78,10 +78,10 @@ You need to answer on questions:
 What part of your system you can't describe in numbers (how much requests you can handle, how time does it take to make change in the code, etc). Start tracking you system in numbers charactarising different aspects of it.
 
 
-# Positiva & Negative feedback  => stock market, key feature, one customer => diversification
+### Positiva & Negative feedback  => stock market, key feature, one customer => diversification
 
-# Basins of attraction
+### Basins of attraction
 
-# So big complex system
+### So big complex system
 How easy your system to adopt it or make changes?
 Flaxibility & scalability
