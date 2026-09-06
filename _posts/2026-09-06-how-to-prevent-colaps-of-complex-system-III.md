@@ -8,7 +8,7 @@ background: '/img/sea-creatures/sea_creatures17_wall.jpg'
 
 Previously I described [How to prevent colaps of complex system - Part I](/2025/02/16/how-to-prevent-colaps-of-complex-system-I.html) and [Part II - practical. Is it possible to predict the fail](https://octadero.com/2025/02/17/how-to-prevent-colaps-of-complex-system-II.html)
 
-## What Makes Difficult and Complex Systems Stop?
+### What Makes Difficult and Complex Systems Stop?
 
 As you may remember, **difficult systems are generally linear**, while **complex systems have nonlinear relationships and interactions between their components**.
 
