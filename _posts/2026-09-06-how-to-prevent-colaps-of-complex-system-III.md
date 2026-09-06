@@ -8,6 +8,7 @@ background: '/img/sea-creatures/sea_creatures17_wall.jpg'
 
 Previously I described [How to prevent colaps of complex system - Part I](/2025/02/16/how-to-prevent-colaps-of-complex-system-I.html) and [Part II - practical. Is it possible to predict the fail](https://octadero.com/2025/02/17/how-to-prevent-colaps-of-complex-system-II.html)
 
+![Basins of Attraction](https://octadero.com/img/posts/2026-09-06/basins-of-attraction-cover_arrow.jpg)
 ### What Makes Difficult and Complex Systems Stop?
 
 As you may remember, **difficult systems are generally linear**, while **complex systems have nonlinear relationships and interactions between their components**.
@@ -64,7 +65,7 @@ Minimizing complexity is relatively straightforward. The first step is to unders
 Consider a scenario where different third-party services are used for push notifications across platforms (iOS, Android, Web), each with a unique API and workflow. Similarly, mixing old legacy systems (e.g., MySQL for statistics) with newer systems (e.g., PostgreSQL for BI) can add complexity. The complexity of maintaining multiple operating systems on a GPU computation cluster (e.g., CentOS, Ubuntu, Red Hat) or managing different versions of Python or CUDA can become overwhelming.  
 
 ### Basins of Attraction
-
+![Basin entry exit asymmetry](https://octadero.com/img/posts/2026-09-06/basin_entry_exit_asymmetry.png)
 Any dynamic system has two important characteristics: **inertia** and, less commonly discussed, **basins of attraction**.
 
 Both concepts describe how a system behaves dynamically. Inertia is well understood: it represents the system’s resistance to changes in its current state. Basins of attraction are more complex and, in my opinion, particularly useful for understanding how real-world systems evolve.
@@ -74,7 +75,7 @@ A **basin of attraction** describes the tendency of a dynamic system to converge
 You can imagine the system as a ball moving through a landscape of hills and valleys. The ball will naturally roll toward one of the valleys. Once it is there, it may be relatively stable, and moving it into another valley requires additional energy. The deeper the valley, the harder it is to escape.
 
 This concept can also be applied to technology and organizations.
-
+![Basins landscape depth](https://octadero.com/img/posts/2026-09-06/basins_landscape_depth.png)
 For example, consider a legacy technology solution. It may be difficult to change or replace, but it provides a certain level of stability and predictability. Over time, the organization effectively settles into its "basin of attraction": changing direction becomes increasingly expensive, even if the alternative is technically better.
 
 Another example is choosing a cloud-based data-labeling provider. The provider may automatically import all your existing data and even offer technical assistance with the migration. This makes moving into the platform extremely easy. However, once your data, workflows, and processes depend on its proprietary formats and APIs, moving out can become significantly more difficult.
