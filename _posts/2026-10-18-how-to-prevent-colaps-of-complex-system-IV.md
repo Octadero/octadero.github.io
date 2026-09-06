@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to prevent colaps of complex system"
-subtitle: "Part III - practical. What to do and some hints"
+subtitle: "Part IV - conclusions"
 date: 2026-10-18 08:43:00 +0200
 background: '/img/sea-creatures/sea_creatures17_wall.jpg'
 ---
