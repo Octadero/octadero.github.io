@@ -6,8 +6,7 @@ date: 2026-10-18 08:43:00 +0200
 background: '/img/sea-creatures/sea_creatures17_wall.jpg'
 ---
 
-[How to prevent colaps of complex system - Part I](/2025/02/16/how-to-prevent-colaps-of-complex-system-I.html)
-Previously I described systems
+Previously I described [How to prevent colaps of complex system - Part I](/2025/02/16/how-to-prevent-colaps-of-complex-system-I.html) and [Part II - practical. Is it possible to predict the fail](https://octadero.com/2025/02/17/how-to-prevent-colaps-of-complex-system-II.html)
 
 ## What Makes Difficult and Complex Systems Stop?
 
@@ -22,7 +21,6 @@ In a **complex system**, failure analysis can take hours, days, or even months. 
 This is what makes complex systems particularly difficult to diagnose. When the system eventually stops, you may initially spend significant time investigating and fixing **symptoms or secondary effects rather than the actual root cause**. You may even end up debugging a workaround that had previously masked the original failure.
 
 Therefore, in complex systems, the most difficult part is often not fixing the failure itself, but **understanding what actually failed in the first place**.
-
 
 ### Size, mirage of regularity, Lack of understanding and control
 A complex system can be small if you measure it by the number of components, the size of its inputs and outputs, or its overall scale.
