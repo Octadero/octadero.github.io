@@ -23,7 +23,7 @@ This is what makes complex systems particularly difficult to diagnose. When the 
 
 Therefore, in complex systems, the most difficult part is often not fixing the failure itself, but **understanding what actually failed in the first place**.
 
-### Size, mirage of regularity, Lack of understanding and control
+### The number of components is only one of many characteristics that define a system.
 A complex system can be small if you measure it by the number of components, the size of its inputs and outputs, or its overall scale.
 
 However, **size does not make a system complex**. Complexity comes from the **type, number, and interactions of relationships between its components**.
