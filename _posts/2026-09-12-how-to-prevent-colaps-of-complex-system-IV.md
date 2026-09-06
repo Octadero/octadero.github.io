@@ -7,20 +7,8 @@ background: '/img/sea-creatures/sea_creatures17_wall.jpg'
 ---
 
 Previously I described [How to prevent colaps of complex system - Part I](/2025/02/16/how-to-prevent-colaps-of-complex-system-I.html) and [Part II - practical. Is it possible to predict the fail](https://octadero.com/2025/02/17/how-to-prevent-colaps-of-complex-system-II.html)
-### The Budget of Complexity  
-The **budget of complexity** refers to the limited resources (money, engineers, time) available to manage complexity in a system. It's important to remember that these resources are finite, so managing complexity efficiently is crucial.  
 
-One of your main tasks should be minimizing **Accidental Complexity**. If a service, tool, or class has multiple implementations that aren't required by your specifications or aren't serving a critical purpose (e.g. reservation), you should unify them. 
-====>
-Minimising **third-party relationships** by creating self hosted solutions is not the best practice from my point of view. You product I suppose has main one feature where you and your team is expert of. Deploying self-hosted solution is reasonable only if you have clear understanding how to will do better then team for whom that service their main feature. Better then service who has years of experience growning it. Better strategy will be defining what that provider can and can't to do. How many notifications it can deliver, how often maintaining window it has and for how long, what SLA it can serve. Think about monitoring third party services and have backup strategy. Maybe you need to replace it by some bore relaiable and maybe more expensive.
-
-Respect your legacy code. If it is simple to understand, stable, and rarely updateble code - leave it as is. It can use old patterns, it can be outdated from of view modern concepts. If your data flow and processing pipelines has some primitive OpenCV preprocessor with lot's of simple instructions, you should not replace it by some cloud based modern third paty mouse configurable service. I can assume there are thesame OpenCV code under the hood.
-
-You need to answer on questions:
-What part of your system you can't describe in numbers (how much requests you can handle, how time does it take to make change in the code, etc). Start tracking you system in numbers charactarising different aspects of it.
-
-
-### Positive & Negative feedback
+### Positive & negative feedback
 One more point you should pay close attention to is whether the **feedback mechanism in your system is actually correct**.
 
 Water is pulled by gravity. You should not expect it to flow through a pipeline if the pipeline is designed incorrectly. The system will follow its natural forces, not your intentions.
@@ -41,6 +29,21 @@ So the key question is:
 
 Check your feedback loops carefully. You may be trying to optimize one thing while your system is actually rewarding something completely different.
 
-### So big complex system
-How easy your system to adopt it or make changes?
-Flaxibility & scalability
+### Removing components changes the system
+
+Pay close attention when removing a component from a system.
+
+When you remove a component, you are not only reducing the number of components. You are also removing the **relationships, dependencies, and effects** associated with it. Some information flows or artifact pipelines may disappear with it, while others may be redirected or disrupted.
+
+These secondary effects are easy to overlook.
+
+Some relationships will recover by themselves as the system adapts. Others will require additional **time and energy** to restore. And some relationships will need to be actively managed and guided by you.
+
+Therefore, removing a component should not be viewed simply as subtracting one element from the system. You need to consider **which relationships disappear with it, which ones will adapt automatically, and which ones require deliberate intervention to keep the system functioning.**
+
+
+### Conclusions
+In my opinion, your North Star should be to build feedback loops, attractors, and motivations that allow the system to continuously develop productive, effective, and efficient relationships between the components you add to it.
+If you design the system this way, flexibility and scalability become properties of the system itself, rather than things you have to add later.
+
+
