@@ -100,7 +100,27 @@ So the key question is:
 Check your feedback loops carefully. You may be trying to optimize one thing while your system is actually rewarding something completely different.
 
 
-### Basins of attraction
+### Basins of Attraction
+
+Any dynamic system has two important characteristics: **inertia** and, less commonly discussed, **basins of attraction**.
+
+Both concepts describe how a system behaves dynamically. Inertia is well understood: it represents the system’s resistance to changes in its current state. Basins of attraction are more complex and, in my opinion, particularly useful for understanding how real-world systems evolve.
+
+A **basin of attraction** describes the tendency of a dynamic system to converge toward a particular value, configuration, or state. While inertia can be thought of as resistance to movement, a basin of attraction describes **where the system tends to move and how difficult it is to move it somewhere else**.
+
+You can imagine the system as a ball moving through a landscape of hills and valleys. The ball will naturally roll toward one of the valleys. Once it is there, it may be relatively stable, and moving it into another valley requires additional energy. The deeper the valley, the harder it is to escape.
+
+This concept can also be applied to technology and organizations.
+
+For example, consider a legacy technology solution. It may be difficult to change or replace, but it provides a certain level of stability and predictability. Over time, the organization effectively settles into its "basin of attraction": changing direction becomes increasingly expensive, even if the alternative is technically better.
+
+Another example is choosing a cloud-based data-labeling provider. The provider may automatically import all your existing data and even offer technical assistance with the migration. This makes moving into the platform extremely easy. However, once your data, workflows, and processes depend on its proprietary formats and APIs, moving out can become significantly more difficult.
+
+The same applies to organizational decisions. Imagine a decision to reduce part of a team. Executing the decision may be relatively easy, but reversing it later can be much more expensive—in terms of both money and time. Once people leave, rebuilding the same expertise and team structure is not simply a matter of reversing the original action.
+
+This leads to an important consequence: **when making a decision, we should consider not only the resources required to move the system into a new state, but also the cost of moving out of that state later.**
+
+In other words, the real cost of a decision is not always the cost of reaching the next state. It also includes the **shape of the basin we are moving into**—how stable it is, how difficult it will be to escape, and what options it leaves us for the next step.
 
 ### So big complex system
 How easy your system to adopt it or make changes?
