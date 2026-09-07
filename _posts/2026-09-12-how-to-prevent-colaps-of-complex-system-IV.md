@@ -6,8 +6,6 @@ date: 2026-09-12 08:43:00 +0200
 background: '/img/sea-creatures/sea_creatures17_wall.jpg'
 ---
 
-Previously I described [How to prevent colaps of complex system - Part I](/2025/02/16/how-to-prevent-colaps-of-complex-system-I.html) and [Part II - practical. Is it possible to predict the fail](https://octadero.com/2025/02/17/how-to-prevent-colaps-of-complex-system-II.html)
-
 ### Positive & negative feedback
 One more point you should pay close attention to is whether the **feedback mechanism in your system is actually correct**.
 
@@ -43,7 +41,12 @@ Therefore, removing a component should not be viewed simply as subtracting one e
 
 
 ### Conclusions
-In my opinion, your North Star should be to build feedback loops, attractors, and motivations that allow the system to continuously develop productive, effective, and efficient relationships between the components you add to it.
-If you design the system this way, flexibility and scalability become properties of the system itself, rather than things you have to add later.
+Conclusions
+
+In a complex system, the hardest part is rarely the repair itself — it is understanding what actually failed, because the system will hide the original problem behind its own workarounds. Most of what makes such a system hard to manage is invisible: the relationships between components, not the components themselves, which is why removing one element is never simply subtraction. Feedback loops decide what the system will amplify, and it will amplify what you actually reward, not what you intended. Basins of attraction decide where it will settle, so the real cost of a decision includes the cost of leaving the state you are moving into.
+
+So be patient with your system. Be an explorer: discover it, pay attention to the relationships and the details, learn it, listen to it. A complex system will tell you how it behaves long before it tells you why — but only if you are watching.
+
+My north star is to build feedback loops, attractors, and motivations that let the system keep forming productive relationships on its own. Design it that way, and flexibility and scalability become properties of the system rather than things you bolt on later.
 
 
