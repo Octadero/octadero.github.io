@@ -41,12 +41,9 @@ Therefore, removing a component should not be viewed simply as subtracting one e
 
 
 ### Conclusions
-Conclusions
-
 In a complex system, the hardest part is rarely the repair itself — it is understanding what actually failed, because the system will hide the original problem behind its own workarounds. Most of what makes such a system hard to manage is invisible: the relationships between components, not the components themselves, which is why removing one element is never simply subtraction. Feedback loops decide what the system will amplify, and it will amplify what you actually reward, not what you intended. Basins of attraction decide where it will settle, so the real cost of a decision includes the cost of leaving the state you are moving into.
 
 So be patient with your system. Be an explorer: discover it, pay attention to the relationships and the details, learn it, listen to it. A complex system will tell you how it behaves long before it tells you why — but only if you are watching.
 
 My north star is to build feedback loops, attractors, and motivations that let the system keep forming productive relationships on its own. Design it that way, and flexibility and scalability become properties of the system rather than things you bolt on later.
-
 
