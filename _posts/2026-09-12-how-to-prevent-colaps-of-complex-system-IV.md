@@ -5,7 +5,7 @@ subtitle: "Part IV - conclusions"
 date: 2026-09-12 08:43:00 +0200
 background: '/img/sea-creatures/sea_creatures17_wall.jpg'
 ---
-![Conclusions](https://octadero.com/img/posts/2026-09-12/complex-system-conclusions_1x1)
+![Conclusions](https://octadero.com/img/posts/2026-09-12/complex-system-conclusions_1x1.jpg)
 ### Positive & negative feedback
 One more point you should pay close attention to is whether the **feedback mechanism in your system is actually correct**.
 
